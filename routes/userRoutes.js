@@ -5,7 +5,7 @@ const {
   createNewUserController,
   updateUserController,
   deleteUserController,
-} = require('../controllers/userController');
+} = require('../controllers/userControllers');
 
 router
   .route('/')
